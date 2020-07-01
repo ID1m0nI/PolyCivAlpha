@@ -1,0 +1,195 @@
+
+game.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Ai-Mo
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Aquarion
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Bardur
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Elyrion
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game5.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Hoodrick
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game6.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Imperius
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game7.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Kickoo
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game8.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Luxidoor
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game9.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Oumaji
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game10.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Polaris
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game11.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Quetzali
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game12.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Vengir
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game13.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Xin-Xi
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game14.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Yadakk
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
+
+game15.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Zebazi
+  rotate: false
+  xy: 2, 2
+  size: 1024, 1024
+  orig: 1024, 1024
+  offset: 0, 0
+  index: -1
